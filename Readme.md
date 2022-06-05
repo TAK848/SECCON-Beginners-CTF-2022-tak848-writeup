@@ -104,7 +104,14 @@ ctf4b{n16h7_ph15h1n6_15_600d}
 
 ![](SECCON%20Beginners%20CTF%202022/Screen%20Shot%202022-06-05%20at%2017.00.23.png)
 
-[文章比較ツール](https://lab.hidetake.org/diff/)より。みなさんも，ホモグラフ攻撃によるフィッシングに遭わないよう気をつけましょう（？）。
+[文章比較ツール](https://lab.hidetake.org/diff/)より。
+
+<img width="606" alt="Screen Shot 2022-06-05 at 19 14 54" src="https://user-images.githubusercontent.com/41906969/172045764-a4b696ee-03de-4518-bebc-dcbecf924967.png">
+
+上: `www.example.com`
+下: `ωωω․εⅹáⅿρIε․ċοⅿ`
+
+みなさんも，ホモグラフ攻撃によるフィッシングに遭わないよう気をつけましょう（？）。
 
 ### hitchhike4b[125 team solved, 84pt]
 >helpを呼び出したら、ページャーとして猫が来ました。
